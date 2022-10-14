@@ -1,5 +1,7 @@
 @charset "UTF-8";
 @import url(login.css);
+@import url(redes_sociais.css);
+@import url(registro.css);
 
 :root {
   --cor_geral: #323232;
