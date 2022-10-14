@@ -1,2 +1,21 @@
 @charset "UTF-8";
 @import url(login.css);
+
+:root {
+  --cor_geral: #323232;
+}
+
+* {
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+  color: var(--cor_geral);
+  border: none;
+  text-decoration: none;
+}
+
+body {
+  background-image: url(../img/sheng-l-q2dUSl9S4Xg-unsplash.jpg);
+  background-size: cover;
+  background-position: right center;
+  background-attachment: fixed;
+}
