@@ -4,6 +4,7 @@
 :root {
   --cor_geral: #323232;
   --cor_links: #08558B;
+  --cor_fundo: #fff;
 }
 
 * {

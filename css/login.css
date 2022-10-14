@@ -1,1 +1,9 @@
 @charset "UTF-8";
+.container__login {
+  background-color: var(--cor_fundo);
+  max-width: 400px;
+  margin: 10vh auto 0px;
+  padding: 20px 30px;
+  border-radius: 10px;
+  text-align: center;
+}
