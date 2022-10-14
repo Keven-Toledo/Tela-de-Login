@@ -1,1 +1,8 @@
 @charset "UTF-8";
+.container__registrar {
+  margin-bottom: 20px;
+}
+
+.container__registrar-titulo {
+  margin: 0 0 10px;
+}
