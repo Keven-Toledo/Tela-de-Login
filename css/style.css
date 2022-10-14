@@ -4,6 +4,7 @@
 :root {
   --cor_geral: #323232;
   --cor_links: #08558B;
+  --cor_botao-hover: #1B223C;
   --cor_fundo: #fff;
 }
 
@@ -26,7 +27,7 @@ textarea:focus, input:focus {
   outline: none;
 }
 
-a {
+a, label {
   font-size: .8rem;
 }
 
