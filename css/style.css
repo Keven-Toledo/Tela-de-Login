@@ -3,6 +3,7 @@
 
 :root {
   --cor_geral: #323232;
+  --cor_links: #08558B;
 }
 
 * {
@@ -18,4 +19,16 @@ body {
   background-size: cover;
   background-position: right center;
   background-attachment: fixed;
+}
+
+textarea:focus, input:focus {
+  outline: none;
+}
+
+a {
+  font-size: .8rem;
+}
+
+a:hover {
+  color: var(--cor_links);
 }
