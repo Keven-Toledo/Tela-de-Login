@@ -1,1 +1,22 @@
 @charset "UTF-8";
+.container__social {
+  margin-bottom: 20px;
+}
+
+.container__social i {
+  height: 40px;
+  width: 40px;
+  display: inline-block;
+  border-radius: 50%;
+  line-height: 40px;
+  color: var(--cor_fundo);
+  margin: 10px 5px;
+  cursor: pointer;
+}
+
+.icon-o-Facebook {
+  background-color: var(--cor_facebook);
+}
+.icon-linkedin {
+  background-color: var(--cor_linkedin);
+}
